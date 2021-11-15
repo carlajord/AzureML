@@ -1,6 +1,7 @@
 # AzureML
 
 A demonstration of basic scripts for Azure ML machine learning model building.
+I run those models in preparation for my Azure Data Science Associate certification exam.
 
 Contains three notebooks:
 - Simple ML experiment with a script
@@ -13,4 +14,3 @@ Basic steps include:
 - Creating an environment
 - Creating an experiment and a config
 - Evaluating results
-
