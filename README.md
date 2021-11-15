@@ -2,9 +2,10 @@
 
 A demonstration of basic scripts for Azure ML machine learning model building.
 
-Contains two notebooks:
+Contains three notebooks:
 - Simple ML experiment with a script
 - Hyperparameter tunning with Azure ML
+- AutoML feature with python sdk
 
 Basic steps include:
 - Creating a compute
